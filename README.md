@@ -6,10 +6,6 @@
 
 This is a professional portfolio website for Naomi Nyambura Njengah, showcasing her extensive experience in operations management, facility management, and administration. The portfolio is built with pure HTML and CSS, featuring a responsive design that works seamlessly across all devices.
 
-## Live Demo
-
-[View Portfolio](https://your-portfolio-link.com) (replace with actual link when deployed)
-
 ## Features
 
 - **Modern, Professional Design**: Clean layout with a professional color scheme
@@ -35,41 +31,6 @@ This is a professional portfolio website for Naomi Nyambura Njengah, showcasing 
 - **CSS3**: Modern styling with Flexbox and Grid
 - **Font Awesome**: Icons for visual enhancement
 - **Google Fonts**: Typography
-- **Vanilla JavaScript**: Minimal JS for mobile menu and form submission
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/naomi-portfolio.git
-   ```
-2. Open `index.html` in any modern browser
-3. Customize the content by editing the HTML file:
-   - Update personal information
-   - Modify work experience and education
-   - Add your own profile photo
-
-## Customization
-
-To customize this portfolio for your own use:
-
-1. Replace the placeholder image in the About section with your own photo
-2. Update all personal information (name, contact details, etc.)
-3. Modify work experience and education sections to reflect your background
-4. Adjust the skills section to highlight your expertise
-5. Update the professional interests to match your career focus
-6. Change the color scheme by modifying the CSS variables in the style section
-
-## Credits
-
-- **Images**: Unsplash
-- **Icons**: Font Awesome
-- **Design Inspiration**: Modern portfolio templates
-- **Content**: Based on Naomi Njengah's professional resume
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
